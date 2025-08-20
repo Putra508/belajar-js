@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "judulfilm": "Agak laen",
+    "tahunrilis": "(2024)",
+    "genrefilm": [
+      " Horor",
+      "komedi"
+    ]
+  },
+  {
+    "id": 2,
+    "judulfilm": "Habibie & Ainun",
+    "tahunrilis": "(2012)",
+    "genrefilm": [
+      " Drama",
+      "Romantis"
+    ]
+  },
+  {
+    "id": 3,
+    "judulfilm": "Dilan 1990",
+    "tahunrilis": "(2018)",
+    "genrefilm": [
+      " Romantis"
+    ]
+  },
+  {
+    "id": 1,
+    "judulfilm": "Agak laen",
+    "tahunrilis": "(2024)",
+    "genrefilm": [
+      " Horor",
+      "komedi"
+    ]
+  },
+  {
+    "id": 2,
+    "judulfilm": "Habibie & Ainun",
+    "tahunrilis": "(2012)",
+    "genrefilm": [
+      " Drama",
+      "Romantis"
+    ]
+  },
+  {
+    "id": 3,
+    "judulfilm": "Dilan 1990",
+    "tahunrilis": "(2018)",
+    "genrefilm": [
+      " Romantis"
+    ]
+  }
+]
